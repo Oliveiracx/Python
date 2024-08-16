@@ -1,4 +1,4 @@
-print ("Escreva um número")
+print ("Escreva um número:")
 numero = int(input())
 antecessor = numero-1
 print ("Seu número é {}".format(number))
