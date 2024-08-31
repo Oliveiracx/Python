@@ -1,4 +1,4 @@
-print("                         Calculadora de Salário")
+print("                          Calculadora de Salário")
 print()
 s_fixo = int(input("Digite seu salário fixo:R$"))
 vendas = int(input("Quantos carros você vendeu esse mês:"))
