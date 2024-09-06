@@ -1,0 +1,10 @@
+valores = []
+primeiro = int(input("Digite um valor:"))
+valores.append(primeiro)
+segundo = int(input("mais um:"))
+valores.append(segundo)
+terceiro = int(input("último:"))
+valores.append(terceiro)
+maior = max((valores))
+print("Os números que vcê digitou são {}".format(valores))
+print("O maior número dentre os que você escreveu é {}".format(maior))
